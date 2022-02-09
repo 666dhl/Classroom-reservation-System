@@ -56,27 +56,27 @@
   * 清空预约    ---   清空所有预约记录
   * 注销登录    ---   退出登录
 
-![cabf84d26b646b916ed75912390369e](C:\Users\纠结伦\Desktop\system\picture\cabf84d26b646b916ed75912390369e.png)
+![cabf84d26b646b916ed75912390369e](https://github.com/666dhl/Classroom-reservation-System/blob/main/images/cabf84d26b646b916ed75912390369e.png)
 
 ### 1.2 系统模型
 
 #### 1.2.1 main()函数
 
-![08531d42860f7aefa44782d03495b2c](C:\Users\纠结伦\Desktop\system\picture\08531d42860f7aefa44782d03495b2c.png)
+![08531d42860f7aefa44782d03495b2c](https://github.com/666dhl/Classroom-reservation-System/blob/main/images/08531d42860f7aefa44782d03495b2c.png)
 
-![45cac1aae68c089c2d86ba60b1b13a1](C:\Users\纠结伦\Desktop\system\picture\45cac1aae68c089c2d86ba60b1b13a1.png)
+![45cac1aae68c089c2d86ba60b1b13a1](https://github.com/666dhl/Classroom-reservation-System/blob/main/images/45cac1aae68c089c2d86ba60b1b13a1.png)
 
 #### 1.2.2 学生
 
-![b49b6d1db86c07ed578e028bc35ce5e](C:\Users\纠结伦\Desktop\system\picture\b49b6d1db86c07ed578e028bc35ce5e.png)
+![b49b6d1db86c07ed578e028bc35ce5e](https://github.com/666dhl/Classroom-reservation-System/blob/main/images/b49b6d1db86c07ed578e028bc35ce5e.png)
 
 #### 1.2.2 老师
 
-![6fb25fe69b932d54f9dc77c767b3ad3](C:\Users\纠结伦\Desktop\system\picture\6fb25fe69b932d54f9dc77c767b3ad3.png)
+![6fb25fe69b932d54f9dc77c767b3ad3](https://github.com/666dhl/Classroom-reservation-System/blob/main/images/6fb25fe69b932d54f9dc77c767b3ad3.png)
 
 #### 1.2.3 管理者
 
-![e3ade13a70834fe50f450ccdf7464d2](C:\Users\纠结伦\Desktop\system\picture\e3ade13a70834fe50f450ccdf7464d2.png)
+![e3ade13a70834fe50f450ccdf7464d2](https://github.com/666dhl/Classroom-reservation-System/blob/main/images/e3ade13a70834fe50f450ccdf7464d2.png)
 
 ## 2.详细注释
 
@@ -102,5 +102,5 @@
 
 测试
 
-![4d3c69fcda9e879473ebe1e65d04657](C:\Users\纠结伦\Desktop\Classroom-Reservation-System\picture\4d3c69fcda9e879473ebe1e65d04657.png)
+![4d3c69fcda9e879473ebe1e65d04657](https://github.com/666dhl/Classroom-reservation-System/blob/main/images/4d3c69fcda9e879473ebe1e65d04657.png)
 
