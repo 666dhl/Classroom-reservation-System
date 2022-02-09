@@ -5,7 +5,7 @@
 ### 1.1 系统简介
 
 * 学校现有几个规格不同的教室，由于使用时经常出现"撞车"现象,现开发一套教室预约系统，解决这一问题。
-* ![image-20220209164317065](https://github.com/666dhl/Classroom-reservation-System/blob/main/images/image-20220209164317065.png)
+* ![image-20220209164317065](https://github.com/666dhl/Classroom-reservation-System/blob/main/images/ff794569671915b16d6e86bfbd91e1e.png)
 
 #### 1.1.1 身份简介
 
